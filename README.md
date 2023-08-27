@@ -17,7 +17,7 @@ An alternative/fancier way to do this is:
 }
 ```
 
-Go to [Docs] (https://necolas.github.io/normalize.css/)
+Go to [Docs] (<https://necolas.github.io/normalize.css/>)
 
 - select the latest version of normalize.css
 - Create normalize.css file in your project
@@ -53,38 +53,38 @@ Make some adjustments
 
 Manual Approach
 
-- [coolors] (https://coolors.co)
-- [happyhues] (https://happyhues.co)
+- [coolors] (<https://coolors.co>)
+- [happyhues] (<https://happyhues.co>)
 - select your own color
-- get shades [shadowlord] (https://noeldelgado.github.io/shadowlord/#1e4ea3)
+- get shades [shadowlord] (<https://noeldelgado.github.io/shadowlord/#1e4ea3>)
 
 #### Library/Faster Approach
 
-- [bootstrap] (https://getbootstrap.com/docs/5.3/customize/color/)
-- [tailwind] (https://tailwindcss.com/docs/customizing-colors)
+- [bootstrap] (<https://getbootstrap.com/docs/5.3/customize/color/>)
+- [tailwind] (<https://tailwindcss.com/docs/customizing-colors>)
 
 #### Select Grey
 
-- [tailwind] (https://tailwindcss.com/docs/customizing-colors)
+- [tailwind] (<https://tailwindcss.com/docs/customizing-colors>)
 
 #### Just go with happyhues
 
-- [happyhues] (https://happyhues.co)
+- [happyhues] (<https://happyhues.co>)
 
 #### Box Shadow
 
-- [tailwind] https://tailwindcss.com/docs/box-shadow)
+- [tailwind] <https://tailwindcss.com/docs/box-shadow>)
 
 #### Icons
 
-- [fontawesome] (https://fontawesome.com)
+- [fontawesome] (<https://fontawesome.com>)
 - CDN link to add to your project
 
 ```HTML
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 ```
 
-- Check [cdnjs] (https://cdnjs.com/libraries/font-awesome) to see if a newer version is available
+- Check [cdnjs] (<https://cdnjs.com/libraries/font-awesome>) to see if a newer version is available
 
 ### Media Queries
 
